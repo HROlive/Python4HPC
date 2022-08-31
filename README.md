@@ -1,2 +1,5 @@
 # Python4HPC
-Python from an HPC viewpoint, the most practical tools, and various indispensable libraries for HPC use cases.
+
+Jupyter Notebooks containing Exercises & Lectures for the Python 4 HPC training.
+
+See https://vsc.ac.at/training/2022/Python4HPC
