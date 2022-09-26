@@ -37,6 +37,6 @@ The notebooks and exercises can be found in this repository and are organized in
 <a name="certificate"></a>
 ## Certificate
 
-The certificates for the workshop can be found bellow:
+The certificate for the workshop can be found bellow:
 
-- ["Python4HPC" - EuroCC Austria and VSC Research Center](https://github.com/HROlive/Python4HPC/blob/main/images/Python4HPC-2022-Aug_Certificate_Oliveira.pdf) (Issued On: September 2022)
+["Python4HPC" - EuroCC Austria and VSC Research Center](https://github.com/HROlive/Python4HPC/blob/main/images/Python4HPC-2022-Aug_Certificate_Oliveira.pdf) (Issued On: September 2022)
