@@ -31,8 +31,8 @@ This course is organized in cooperation with Opens external link in new [EuroCC 
 All necessary information, links and lesson slides for the course can be found on the [course website](https://vsc.ac.at/training/2022/Python4HPC).
 
 The notebooks and exercises can be found in this repository and are organized in their respective folders, one for each day of the course:
-- [Day 1 - Advanced and Compiled Python, Tooling, Performance, Development;](https://github.com/HROlive/Deep-Learning-Week-Course/tree/main/Day%201%20-%20Fundamentals%20of%20Deep%20Learning)
-- [Day 2 - Dask, cuDF, MPI4Py, NumPy, Pandas, SciPy;](https://github.com/HROlive/Deep-Learning-Week-Course/tree/main/Day%202%20-%20Fundamentals%20of%20Deep%20Learning%20for%20Multi-GPUs)
+- [Day 1 - Advanced and Compiled Python, Tooling, Performance, Development;](https://github.com/HROlive/Python4HPC/tree/main/Day%201%20-%20Advanced%20and%20Compiled%20Python%2C%20Tooling%2C%20Performance%2C%20Development)
+- [Day 2 - Dask, cuDF, MPI4Py, NumPy, Pandas, SciPy;](https://github.com/HROlive/Python4HPC/tree/main/Day%202%20-%20Dask%2C%20cuDF%2C%20MPI4Py%2C%20NumPy%2C%20Pandas%2C%20SciPy)
 
 <a name="certificate"></a>
 ## Certificate
