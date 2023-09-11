@@ -10,7 +10,7 @@
 <a name="descripton"></a>
 ## Description
 
-During the past ten years, Python has seen a meteoric rise in both popularity and demand not only in general purpose programming but especially data science contributed to this trend. Despite Python's architectural shortcomings, even the field of High Performance Computing (HPC), with its highly specific demands, profited from recent developments with various libraries and optimizations.
+During the past ten years, Python has seen a meteoric rise in both popularity and demand not only in general-purpose programming but especially data science contributed to this trend. Despite Python's architectural shortcomings, even the field of High-Performance Computing (HPC), with its highly specific demands, profited from recent developments with various libraries and optimizations.
 
 This course introduces the interested participant to Python from an HPC viewpoint, the most practical tools, and various indispensable libraries for HPC use cases. After completion of this two-day course, participants are prepared to effectively develop their own Python libraries or integrate Python into existing projects.
 
@@ -37,6 +37,6 @@ The notebooks and exercises can be found in this repository and are organized in
 <a name="certificate"></a>
 ## Certificate
 
-The certificate for the workshop can be found bellow:
+The certificate for the workshop can be found below:
 
 ["Python4HPC" - EuroCC Austria and VSC Research Center](https://github.com/HROlive/Python4HPC/blob/main/images/Python4HPC-2022-Aug_Certificate_Oliveira.pdf) (Issued On: September 2022)
